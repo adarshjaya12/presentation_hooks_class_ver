@@ -1,0 +1,4 @@
+node_modules
+app/global-bundle.js
+app/global-bundle.js.map
+*.js.map
